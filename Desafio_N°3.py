@@ -5,4 +5,4 @@ while True:
     print (numero)
     if numero >=20:
         break
-    
+    #Lo hice hasta 20 para que no genere numeros infinitos
